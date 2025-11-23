@@ -32,7 +32,7 @@ THE BGMI DDOS ATACK TELEGRAM SORCE USED TO ANY THING TERMUX AND VPS AOR ANY ORE
 * `pip install requests`
 * `pip install rich`
 * `ls`
-* `python GAMER.py`
+* `python bot.py`
 ```
 [+]-- Now you need internet connection to continue further process...
 [+]-- You can select any option by clicking on your keyboard
