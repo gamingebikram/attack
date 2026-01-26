@@ -11,7 +11,7 @@ from telegram.ext import Updater, CommandHandler, CallbackContext
 from telegram import Update
 
 # ---- CONFIG ----
-TELEGRAM_TOKEN = "7717703289:AAEGnC9CYZosIMkXZQ1yL5RfodmnX19gJZM"
+TELEGRAM_TOKEN = "8341854990:AAHbKYmdUN07uQx8wUuACK2PuMzCBxyrA8E"
 # Telegram user IDs allowed to run tests (admins)
 ADMIN_USER_IDS = {7615740556}  # replace with your Telegram numeric user id(s)
 # Allowed targets mapping alias -> URL
