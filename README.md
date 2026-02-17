@@ -27,12 +27,12 @@ THE BGMI DDOS ATACK TELEGRAM SORCE USED TO ANY THING TERMUX AND VPS AOR ANY ORE
 * `pkg install python-pip -y`
 * `pip install pyTelegramBotAPI`
 * `pkg install git -y`
-* `git clone https://github.com/bikram1201/ddos.git `
+* `git clone https://github.com/bikram1201/attack.git `
 * `cd ddos`
 * `pip install requests`
 * `pip install rich`
 * `ls`
-* `python bot.py`
+* `python x.py`
 ```
 [+]-- Now you need internet connection to continue further process...
 [+]-- You can select any option by clicking on your keyboard
